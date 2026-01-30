@@ -19,7 +19,7 @@ class AdminSeeder extends Seeder
             [
                 'first_name' => 'Super',
                 'last_name' => 'Admin',
-                'email' => 'testing.web012@yopmail.com',
+                'email' => 'admin@yopmail.com',
                 'password' => Hash::make('Admin1!@'),
                 'type' => 'admin',
                 'status' => 'active',

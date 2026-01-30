@@ -19,7 +19,7 @@ if (!function_exists('get_option')) {
     {
         switch ($key) {
             case 'site_title':
-                return "ABC Bank";
+                return "Mini Bank";
                 break;
             default:
                 return "";
