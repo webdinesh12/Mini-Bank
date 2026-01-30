@@ -1,4 +1,4 @@
-## Steps to run this project in amy system
+## Steps to run this project in any system
 
 i) Clone -  
 git clone https://github.com/webdinesh12/Mini-Bank.git
